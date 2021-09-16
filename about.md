@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Monochrome
+title: Yo
 description: This page describes monochrome.
 ---
 ## About
